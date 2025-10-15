@@ -1,0 +1,122 @@
+﻿  SimpleBankSystemProject.course11.cpp
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(201,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsUser.h(176,10): warning C4240: nonstandard extension used: access to 'clsUser::LogainRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+      C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsUser.h(34,12):
+      see declaration of 'clsUser::LogainRegister'
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(27,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(158,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(159,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(160,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(308,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(317,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsUtill.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsTotalBalancesScreen.h(29,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsTotalBalancesScreen.h(44,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'SimpleBankSystemProject.course11.cpp')
+  
+  clsDeleteClientScreen.cpp
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(201,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsUser.h(176,10): warning C4240: nonstandard extension used: access to 'clsUser::LogainRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsDeleteClientScreen.cpp')
+      C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsUser.h(34,12):
+      see declaration of 'clsUser::LogainRegister'
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(27,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(158,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(159,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(160,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(308,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(317,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsDeleteClientScreen.cpp')
+  
+  clsUser.cpp
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(201,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(332,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsString.h(380,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.cpp')
+  
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsUser.h(176,10): warning C4240: nonstandard extension used: access to 'clsUser::LogainRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUser.cpp')
+      C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsUser.h(34,12):
+      see declaration of 'clsUser::LogainRegister'
+  
+  Generating Code...
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(379,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsUser.h(334,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\hp\source\repos\SimpleBankSystemProject.course11\SimpleBankSystemProject.course11\clsBankClient.h(321,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  SimpleBankSystemProject.course11.vcxproj -> C:\Users\hp\source\repos\SimpleBankSystemProject.course11\x64\Debug\SimpleBankSystemProject.course11.exe
