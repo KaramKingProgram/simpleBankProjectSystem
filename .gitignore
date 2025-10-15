@@ -426,3 +426,13 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+.vs/
+*.ipch
+.vs/
+*.ipch
+bin/
+obj/
+.vs/
+bin/
+obj/
+*.ipch
